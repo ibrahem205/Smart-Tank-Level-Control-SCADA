@@ -34,3 +34,7 @@ Analog tank-level measurement
 PID-based level control
 Ignition SCADA visualization
 Real-time PLC/SCADA communication
+
+Project Video : www.linkedin.com/in/ibrahim-babiker-108837246
+
+Website :   https://ibrahim-enginesite.lovable.app/
